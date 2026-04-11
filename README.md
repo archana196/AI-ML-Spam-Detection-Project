@@ -33,7 +33,7 @@ This project aims to classify messages as spam or not using machine learning.
 ---
 
 ## 📊 Results
-- Accuracy: 92% *(or your approx value)*  
+- Accuracy: 92%   
 - Precision: High  
 - Recall: High  
 
